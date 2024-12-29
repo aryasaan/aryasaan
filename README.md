@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>Web Dev | MERN Stack Developer</h4>
 
-- 🔭 I’m currently exploring Frontend Web Development Projects
+- 🔭 I’m currently exploring Frontend Web Development Projects.
 - 🌱 I’m interested in designing and implementing new web Projects.
 - 👯 I’m improving the world by sharing my experiences and contributing to impactful projects.
 - 💬 Ask me about Frontend and Technology.
 - 📫 How to reach me: arya.rajesh958kr@gmail.com | <a href="https://www.linkedin.com/in/rajeshkumar2012/" target="_blank" rel="noreferrer">linkedin.com/in/rajeshkumar2012</a>
-- ⚡ Fun fact: I'm currently pursuing B.Tech in Computer Science
+- ⚡ Fun fact: I'm currently pursuing B.Tech in Computer Science.
 
 
 <h3 align="left">Languages:</h3>
